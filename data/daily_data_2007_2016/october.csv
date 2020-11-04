@@ -1,0 +1,40 @@
+Latitude (decimal degrees):	38.697
+Longitude (decimal degrees):	-9.420
+Radiation database:	PVGIS-SARAH
+
+Results for:	October
+Slope of plane (deg.):	0
+Azimuth (orientation) of plane (deg.):	0
+time(UTC)		G(i)		Gb(i)		Gd(i)		Gcs(i)		T2m
+00:00		0.0		0.0		0.0		0.0		18.17
+01:00		0.0		0.0		0.0		0.0		18.06
+02:00		0.0		0.0		0.0		0.0		17.95
+03:00		0.0		0.0		0.0		0.0		17.84
+04:00		0.0		0.0		0.0		0.0		17.73
+05:00		0.0		0.0		0.0		0.0		17.62
+06:00		0.0		0.0		0.0		0.0		17.51
+07:00		20.96		7.38		13.59		127.91		17.71
+08:00		160.9		81.84		79.06		313.6		17.92
+09:00		295.01		172.31		122.7		485.66		18.12
+10:00		420.43		262.52		157.91		614.89		18.55
+11:00		499.43		324.73		174.7		686.89		18.97
+12:00		545.6		365.21		180.39		695.17		19.39
+13:00		534.11		355.69		178.42		639.06		19.47
+14:00		479.97		313.97		166.0		523.44		19.54
+15:00		377.29		233.86		143.43		360.34		19.62
+16:00		238.43		134.18		104.25		173.87		19.41
+17:00		88.44		39.29		49.15		19.15		19.19
+18:00		0.39		0.0		0.39		0.0		18.98
+19:00		0.0		0.0		0.0		0.0		18.78
+20:00		0.0		0.0		0.0		0.0		18.58
+21:00		0.0		0.0		0.0		0.0		18.38
+22:00		0.0		0.0		0.0		0.0		18.29
+23:00		0.0		0.0		0.0		0.0		18.2
+
+G(i):  Global irradiance on a fixed plane (W/m2)
+Gb(i): Direct irradiance on a fixed plane (W/m2)
+Gd(i): Diffuse irradiance on a fixed plane (W/m2)
+Gcs(i): Global clear-sky irradiance on a fixed plane (W/m2)
+T2m: 2-m air temperature (degree Celsius)
+
+PVGIS (c) European Communities, 2001-2020

@@ -1,0 +1,40 @@
+Latitude (decimal degrees):	38.697
+Longitude (decimal degrees):	-9.420
+Radiation database:	PVGIS-SARAH
+
+Results for:	January
+Slope of plane (deg.):	0
+Azimuth (orientation) of plane (deg.):	0
+time(UTC)		G(i)		Gb(i)		Gd(i)		Gcs(i)		T2m
+00:00		0.0		0.0		0.0		0.0		12.63
+01:00		0.0		0.0		0.0		0.0		12.52
+02:00		0.0		0.0		0.0		0.0		12.41
+03:00		0.0		0.0		0.0		0.0		12.3
+04:00		0.0		0.0		0.0		0.0		12.15
+05:00		0.0		0.0		0.0		0.0		12.0
+06:00		0.0		0.0		0.0		0.0		11.85
+07:00		0.0		0.0		0.0		0.0		11.8
+08:00		5.7		2.18		3.52		99.51		11.76
+09:00		124.58		63.49		61.09		257.38		11.72
+10:00		236.11		135.32		100.79		395.87		12.13
+11:00		318.99		192.35		126.65		487.82		12.54
+12:00		371.18		233.0		138.18		521.37		12.94
+13:00		372.23		234.02		138.21		492.86		13.23
+14:00		340.88		211.85		129.03		405.4		13.52
+15:00		274.48		162.49		111.99		270.0		13.8
+16:00		164.25		90.16		74.09		111.92		13.65
+17:00		36.57		15.2		21.37		0.0		13.49
+18:00		0.0		0.0		0.0		0.0		13.33
+19:00		0.0		0.0		0.0		0.0		13.16
+20:00		0.0		0.0		0.0		0.0		12.98
+21:00		0.0		0.0		0.0		0.0		12.81
+22:00		0.0		0.0		0.0		0.0		12.74
+23:00		0.0		0.0		0.0		0.0		12.67
+
+G(i):  Global irradiance on a fixed plane (W/m2)
+Gb(i): Direct irradiance on a fixed plane (W/m2)
+Gd(i): Diffuse irradiance on a fixed plane (W/m2)
+Gcs(i): Global clear-sky irradiance on a fixed plane (W/m2)
+T2m: 2-m air temperature (degree Celsius)
+
+PVGIS (c) European Communities, 2001-2020

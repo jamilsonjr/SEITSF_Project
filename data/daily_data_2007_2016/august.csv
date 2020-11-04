@@ -1,0 +1,40 @@
+Latitude (decimal degrees):	38.697
+Longitude (decimal degrees):	-9.420
+Radiation database:	PVGIS-SARAH
+
+Results for:	August
+Slope of plane (deg.):	0
+Azimuth (orientation) of plane (deg.):	0
+time(UTC)		G(i)		Gb(i)		Gd(i)		Gcs(i)		T2m
+00:00		0.0		0.0		0.0		0.0		19.32
+01:00		0.0		0.0		0.0		0.0		19.21
+02:00		0.0		0.0		0.0		0.0		19.11
+03:00		0.0		0.0		0.0		0.0		19.0
+04:00		0.0		0.0		0.0		0.0		18.92
+05:00		0.0		0.0		0.0		0.0		18.84
+06:00		12.23		3.99		8.24		103.58		18.77
+07:00		161.87		87.26		74.61		294.04		19.32
+08:00		338.94		219.62		119.31		497.85		19.87
+09:00		512.49		357.45		155.03		679.91		20.42
+10:00		664.59		496.36		168.24		820.23		20.83
+11:00		790.95		612.64		178.31		907.13		21.25
+12:00		855.74		672.81		182.93		934.59		21.66
+13:00		867.41		692.68		174.73		900.84		21.63
+14:00		813.34		639.61		173.73		808.06		21.6
+15:00		711.47		552.46		159.0		662.78		21.57
+16:00		559.12		416.87		142.25		477.37		21.38
+17:00		378.39		262.14		116.26		272.94		21.18
+18:00		190.02		111.37		78.65		87.1		20.99
+19:00		25.21		9.14		16.08		0.0		20.56
+20:00		0.0		0.0		0.0		0.0		20.13
+21:00		0.0		0.0		0.0		0.0		19.7
+22:00		0.0		0.0		0.0		0.0		19.58
+23:00		0.0		0.0		0.0		0.0		19.46
+
+G(i):  Global irradiance on a fixed plane (W/m2)
+Gb(i): Direct irradiance on a fixed plane (W/m2)
+Gd(i): Diffuse irradiance on a fixed plane (W/m2)
+Gcs(i): Global clear-sky irradiance on a fixed plane (W/m2)
+T2m: 2-m air temperature (degree Celsius)
+
+PVGIS (c) European Communities, 2001-2020

@@ -1,0 +1,40 @@
+Latitude (decimal degrees):	38.697
+Longitude (decimal degrees):	-9.420
+Radiation database:	PVGIS-SARAH
+
+Results for:	March
+Slope of plane (deg.):	0
+Azimuth (orientation) of plane (deg.):	0
+time(UTC)		G(i)		Gb(i)		Gd(i)		Gcs(i)		T2m
+00:00		0.0		0.0		0.0		0.0		13.02
+01:00		0.0		0.0		0.0		0.0		12.91
+02:00		0.0		0.0		0.0		0.0		12.79
+03:00		0.0		0.0		0.0		0.0		12.67
+04:00		0.0		0.0		0.0		0.0		12.53
+05:00		0.0		0.0		0.0		0.0		12.39
+06:00		0.0		0.0		0.0		0.0		12.25
+07:00		21.76		7.47		14.3		122.2		12.46
+08:00		157.15		74.6		82.55		315.24		12.67
+09:00		301.05		164.49		136.56		503.96		12.88
+10:00		429.98		256.1		173.87		655.49		13.38
+11:00		550.45		347.89		202.57		752.91		13.88
+12:00		617.1		404.23		212.87		787.77		14.38
+13:00		625.31		406.88		218.43		757.41		14.53
+14:00		573.96		368.91		205.06		664.13		14.67
+15:00		488.75		305.24		183.51		515.94		14.82
+16:00		360.58		212.64		147.94		329.0		14.66
+17:00		209.81		110.52		99.29		134.56		14.51
+18:00		54.32		20.69		33.62		0.0		14.36
+19:00		0.0		0.0		0.0		0.0		14.06
+20:00		0.0		0.0		0.0		0.0		13.76
+21:00		0.0		0.0		0.0		0.0		13.46
+22:00		0.0		0.0		0.0		0.0		13.33
+23:00		0.0		0.0		0.0		0.0		13.2
+
+G(i):  Global irradiance on a fixed plane (W/m2)
+Gb(i): Direct irradiance on a fixed plane (W/m2)
+Gd(i): Diffuse irradiance on a fixed plane (W/m2)
+Gcs(i): Global clear-sky irradiance on a fixed plane (W/m2)
+T2m: 2-m air temperature (degree Celsius)
+
+PVGIS (c) European Communities, 2001-2020
